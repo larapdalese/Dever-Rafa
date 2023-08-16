@@ -10,5 +10,4 @@ def dever_rafa():
     print("rafaell:", rafaell)
     print("Soma Elemento a Elemento:", soma_elementos)
 
-# Chamando a função para executar as operações
 dever_rafa()
